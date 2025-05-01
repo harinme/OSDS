@@ -1,7 +1,10 @@
 # OSDS
 SSAFY 13기 서울 2반 Algorithm  Study_오손도손
+<div align="center">
+<img src="https://github.com/user-attachments/assets/54d63025-9442-4d81-b3c8-541209d3f6fe" align="center" style="width: 100%" />
+</div>  
 
-
+<br>
 
 <h2 align="center">✨ OSDS 팀원 소개 ✨</h2>
 
