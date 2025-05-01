@@ -29,3 +29,7 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
     </td>
   </tr>
 </table>
+
+> 🗓️ **[자동 생성된 달력 보기](https://harinme.github.io/study-calendar/calendar.html)**  
+> 매주 금요일 문제 출제자 확인용 달력이에요!
+
