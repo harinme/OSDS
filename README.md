@@ -58,10 +58,10 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
       <td>🥈 실버 3</td>
     </tr>
     <tr>
-      <td><a href="https://www.acmicpc.net/">백준</a></td>
-      <td><a href="https://www.acmicpc.net/problem/1167">1167</a></td>
-      <td>트리의 지름 구하기</td>
-      <td>🥉 골드 3</td>
+      <td><a href="https://school.programmers.co.kr/learn/challenges?order=recent">프로그래머스</a></td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">64064</a></td>
+      <td>불량 사용자</td>
+      <td>LV.3</td>
     </tr>
   </tbody>
 </table>
