@@ -39,7 +39,7 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
 
 
 <h3 align="center">📌 이번 주 문제</h3>
-<p align="center"><strong>출제자: 양재원</strong></p>
+<p align="center"><strong>출제자: 윤승주</strong></p>
 
 <table align="center" border="1" cellspacing="0" cellpadding="6">
   <thead>
@@ -53,9 +53,9 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
   <tbody align="center">
     <tr>
       <td><a href="https://www.acmicpc.net/">백준</a></td>
-      <td><a href="https://www.acmicpc.net/problem/1414">1414</a></td>
-      <td>불우이웃돕기</td>
-      <td>🥇 골드 1</td>
+      <td><a href="https://www.acmicpc.net/problem/14501">14501</a></td>
+      <td>퇴사</td>
+      <td>🥈 실버 3</td>
     </tr>
     <tr>
       <td><a href="https://www.acmicpc.net/">백준</a></td>
