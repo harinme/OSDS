@@ -102,7 +102,7 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
 <br>
 
 
-<!-- ✅ 5월 1주차 출제자 양재원 -->
+<!-- ✅ 5월 2주차 출제자 양재원 -->
 <h4>📌 5월 1주차 출제자 양재원</h4>
 <table align="center" border="1" cellspacing="0" cellpadding="10" width="90%">
   <thead>
@@ -125,6 +125,33 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
       <td><a href="https://www.acmicpc.net/problem/1167">1167</a></td>
       <td>트리의 지름 구하기</td>
       <td>🥉 골드 3</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- ✅ 5월 2주차 출제자 윤승주 -->
+<h4>📌 5월 2주차 출제자 윤승주</h4>
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="90%">
+   <thead>
+    <tr align="center" style="background-color:#f2f2f2; font-weight:bold;">
+      <td>출처</td>
+      <td>문제 번호</td>
+      <td>문제 이름</td>
+      <td>난이도</td>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/14501">14501</a></td>
+      <td>퇴사</td>
+      <td>🥈 실버 3</td>
+    </tr>
+    <tr>
+      <td><a href="https://school.programmers.co.kr/learn/challenges?order=recent">프로그래머스</a></td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">64064</a></td>
+      <td>불량 사용자</td>
+      <td>LV.3</td>
     </tr>
   </tbody>
 </table>
