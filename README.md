@@ -45,11 +45,11 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
 
 
 <h3 align="center">📌 이번 주 문제</h3>
-<p align="center"><strong>출제자: 윤승주</strong></p>
+<p align="center"><strong>출제자: 봉혜린</strong></p>
 
 <table align="center" border="1" cellspacing="0" cellpadding="6">
   <thead>
-    <tr align="center" style="background-color:#f2f2f2; font-weight:bold;">
+    <tr align="center" style="background-color:#f9f9f9; font-weight:bold;">
       <td>출처</td>
       <td>문제 번호</td>
       <td>문제 이름</td>
@@ -59,18 +59,21 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
   <tbody align="center">
     <tr>
       <td><a href="https://www.acmicpc.net/">백준</a></td>
-      <td><a href="https://www.acmicpc.net/problem/14501">14501</a></td>
-      <td>퇴사</td>
-      <td>🥈 실버 3</td>
+      <td><a href="https://www.acmicpc.net/problem/7569">7569</a></td>
+      <td>토마토</td>
+      <td>🥇 골드 5</td>
     </tr>
     <tr>
       <td><a href="https://school.programmers.co.kr/learn/challenges?order=recent">프로그래머스</a></td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">64064</a></td>
-      <td>불량 사용자</td>
-      <td>LV.3</td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">84512</a></td>
+      <td>모음사전</td>
+      <td>LV.2</td>
     </tr>
   </tbody>
 </table>
+
+
+
 
 
 > 🗓️ **[자동 생성된 달력 보기](https://harinme.github.io/study-calendar/calendar.html)**  
@@ -158,6 +161,32 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
       <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">64064</a></td>
       <td>불량 사용자</td>
       <td>LV.3</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>📌 5월 3주차 출제자 봉혜린</h4>
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="90%">
+  <thead>
+    <tr align="center" style="background-color:#f9f9f9; font-weight:bold;">
+      <td>출처</td>
+      <td>문제 번호</td>
+      <td>문제 이름</td>
+      <td>난이도</td>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/7569">7569</a></td>
+      <td>토마토</td>
+      <td>🥇 골드 5</td>
+    </tr>
+    <tr>
+      <td><a href="https://school.programmers.co.kr/learn/challenges?order=recent">프로그래머스</a></td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">84512</a></td>
+      <td>모음사전</td>
+      <td>LV.2</td>
     </tr>
   </tbody>
 </table>
