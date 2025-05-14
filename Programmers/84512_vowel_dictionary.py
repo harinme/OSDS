@@ -42,6 +42,41 @@ def solution(word):
 
     return answer
 
+# ------------------------------
+
+from itertools import product
+vowel = ['A', 'E', 'I', 'O', 'U']
+
+# 2) 길이 0~4짜리 모든 suffix(접미어) 생성 후 정렬
+suffixes = []
+for cnt in range(0, 5):               # 0글자부터 4글자까지
+    # product(arr, repeat=number) 
+    # repeat의 개수만큼(number개를 뽑을 때) 중복 허용하는 조합을 만들어줌
+    for combo in product(vowel, repeat=cnt):
+        suffixes.append(''.join(combo))
+suffixes.sort()
+
+# 3) suffix_map: suffix -> 0-based 인덱스
+suffix_map = { s: i for i, s in enumerate(suffixes) }
+
+# 4) 첫 글자마다 사이클 시작 인덱스 (1-indexed)
+#    한 사이클의 크기는 suffixes의 길이 == 781개
+cycle_size = len(suffixes)  # 5^0 + 5^1 + 5^2 + 5^3 + 5^4 = 781
+start_num = {
+    'A': 1,
+    'E': 1 + cycle_size,
+    'I': 1 + cycle_size * 2,
+    'O': 1 + cycle_size * 3,
+    'U': 1 + cycle_size * 4,
+}
+
+def solution(word):
+    # 첫 글자와 나머지 분리
+    start = start_num[word[0]]
+    words = word[1:]   # 접미어 부분
+
+    return start + suffix_map[words]
+
 
 print(f"#1 {solution('AAAAE')}") # 6
 print(f"#2 {solution('AAAE')}") # 10
