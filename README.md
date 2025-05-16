@@ -205,7 +205,7 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
     <tr>
       <td><a href="https://www.acmicpc.net/">백준</a></td>
       <td><a href="https://www.acmicpc.net/problem/1600>1600</a></td>
-      <td>말이 되고픈 원숭이</td>
+      <td> 말이 되고픈 원숭이 </td>
       <td>🥇 골드 3</td>
     </tr>
     <tr>
