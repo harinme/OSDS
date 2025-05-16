@@ -61,13 +61,13 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
       <td><a href="https://www.acmicpc.net/">백준</a></td>
       <td><a href="https://www.acmicpc.net/problem/1600">1600</a></td>
       <td>말이 되고픈 원숭이</td>
-      <td>🥈 골드 3</td>
+      <td>🥇 골드 3</td>
     </tr>
     <tr>
       <td><a href="https://www.acmicpc.net/">백준</a></td>
       <td><a href="https://www.acmicpc.net/problem/11066">11066</a></td>
       <td>파일 합치기</td>
-      <td>골드 2</td>
+      <td>🥇 골드 2</td>
     </tr>
   </tbody>
 </table>
@@ -191,4 +191,28 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
   </tbody>
 </table>
 
-
+<h4>📌 5월 4주차 출제자 임유나</h4>
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="90%">
+  <thead>
+    <tr align="center" style="background-color:#f9f9f9; font-weight:bold;">
+      <td>출처</td>
+      <td>문제 번호</td>
+      <td>문제 이름</td>
+      <td>난이도</td>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/1600>1600</a></td>
+      <td>말이 되고픈 원숭이</td>
+      <td>🥇 골드 3</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/11066>11066</a></td>
+      <td>파일 합치기</td>
+      <td>🥇 골드 2</td>
+    </tr>
+  </tbody>
+</table>
