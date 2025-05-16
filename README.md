@@ -45,11 +45,11 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
 
 
 <h3 align="center">📌 이번 주 문제</h3>
-<p align="center"><strong>출제자: 봉혜린</strong></p>
+<p align="center"><strong>출제자: 임유나</strong></p>
 
 <table align="center" border="1" cellspacing="0" cellpadding="6">
   <thead>
-    <tr align="center" style="background-color:#f9f9f9; font-weight:bold;">
+    <tr align="center" style="background-color:#f2f2f2; font-weight:bold;">
       <td>출처</td>
       <td>문제 번호</td>
       <td>문제 이름</td>
@@ -59,15 +59,15 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
   <tbody align="center">
     <tr>
       <td><a href="https://www.acmicpc.net/">백준</a></td>
-      <td><a href="https://www.acmicpc.net/problem/7569">7569</a></td>
-      <td>토마토</td>
-      <td>🥇 골드 5</td>
+      <td><a href="https://www.acmicpc.net/problem/1600">1600</a></td>
+      <td>말이 되고픈 원숭이</td>
+      <td>🥈 골드 3</td>
     </tr>
     <tr>
-      <td><a href="https://school.programmers.co.kr/learn/challenges?order=recent">프로그래머스</a></td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/84512">84512</a></td>
-      <td>모음사전</td>
-      <td>LV.2</td>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/11066">11066</a></td>
+      <td>파일 합치기</td>
+      <td>골드 2</td>
     </tr>
   </tbody>
 </table>
