@@ -69,6 +69,18 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
       <td>파일 합치기</td>
       <td>🥇 골드 2</td>
     </tr>
+    <tr>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/17822">17822</a></td>
+      <td>원판 돌리기</td>
+      <td>🥇 골드 2</td>
+    </tr>
+    <tr>
+      <td><a href="https://programmers.co.kr/">프로그래머스</a></td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12905">12905</a></td>
+      <td>가장 큰 정사각형 찾기</td>
+      <td> LV.2</td>
+    </tr>
   </tbody>
 </table>
 
@@ -213,6 +225,32 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
       <td><a href="https://www.acmicpc.net/problem/11066">11066</a></td>
       <td>파일 합치기</td>
       <td>🥇 골드 2</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4>📌 6월 1주차 출제자 임유나</h4>
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="90%">
+  <thead>
+    <tr align="center" style="background-color:#f9f9f9; font-weight:bold;">
+      <td>출처</td>
+      <td>문제 번호</td>
+      <td>문제 이름</td>
+      <td>난이도</td>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/17822">17822</a></td>
+      <td>원판 돌리기</td>
+      <td>🥇 골드 2</td>
+    </tr>
+    <tr>
+      <td><a href="https://programmers.co.kr/">프로그래머스</a></td>
+      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12905">12905</a></td>
+      <td>가장 큰 정사각형 찾기</td>
+      <td> LV.2</td>
     </tr>
   </tbody>
 </table>
