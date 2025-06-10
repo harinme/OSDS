@@ -45,7 +45,7 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
 
 
 <h3 align="center">📌 이번 주 문제</h3>
-<p align="center"><strong>출제자: 윤승주</strong></p>
+<p align="center"><strong>출제자: 임유나</strong></p>
 
 <table align="center" border="1" cellspacing="0" cellpadding="6">
   <thead>
@@ -59,15 +59,15 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
   <tbody align="center">
     <tr>
       <td><a href="https://www.acmicpc.net/">백준</a></td>
-      <td><a href="https://www.acmicpc.net/problem/14501">14501</a></td>
-      <td>퇴사</td>
-      <td>🥈 실버 3</td>
+      <td><a href="https://www.acmicpc.net/problem/1600">1600</a></td>
+      <td>말이 되고픈 원숭이</td>
+      <td>🥈 골드 3</td>
     </tr>
     <tr>
-      <td><a href="https://school.programmers.co.kr/learn/challenges?order=recent">프로그래머스</a></td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">64064</a></td>
-      <td>불량 사용자</td>
-      <td>LV.3</td>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/11066">11066</a></td>
+      <td>파일 합치기</td>
+      <td>골드 2</td>
     </tr>
   </tbody>
 </table>
