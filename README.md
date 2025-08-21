@@ -44,7 +44,7 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
 
 
 <h3 align="center">📌 이번 주 문제</h3>
-<p align="center"><strong>출제자: 윤승주주</strong></p>
+<p align="center"><strong>출제자: 윤승주</strong></p>
 
 <table align="center" border="1" cellspacing="0" cellpadding="6">
   <thead>
