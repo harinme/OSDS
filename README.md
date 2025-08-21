@@ -12,7 +12,39 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
   <tr>
     <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:10px; box-shadow: 2px 2px 5px #aaa;">
       <img src="https://avatars.githubusercontent.com/u/195263912?v=4" width="100" style="border-radius:50%;"/><br/>
-  주</strong></p>
+      <strong>봉혜린</strong><br/>
+      <a href="https://github.com/bonghyerin">bonghyerin</a>
+    </td>
+    <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:10px; box-shadow: 2px 2px 5px #aaa;">
+      <img src="https://avatars.githubusercontent.com/u/195062705?v=4" width="100" style="border-radius:50%;"/><br/>
+      <strong>양재원</strong><br/>
+      <a href="https://github.com/JW0304">JW0304</a>
+    </td>
+    <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:10px; box-shadow: 2px 2px 5px #aaa;">
+      <img src="https://avatars.githubusercontent.com/u/195263629?v=4" width="100" style="border-radius:50%;"/><br/>
+      <strong>윤승주</strong><br/>
+      <a href="https://github.com/Potatopotage">Potatopotage</a>
+    </td>
+    <td align="center" style="border:1px solid #ccc; border-radius:10px; padding:10px; box-shadow: 2px 2px 5px #aaa;">
+      <img src="https://avatars.githubusercontent.com/u/152590695?v=4" width="100" style="border-radius:50%;"/><br/>
+      <strong>임유나</strong><br/>
+      <a href="https://github.com/harinme">harinme</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+<hr>
+<!-- 사이트 주소 정리
+<a href="https://www.acmicpc.net/">백준</a>
+<a href="https://programmers.co.kr/">프로그래머스</a>
+<a href="https://codeforces.com/">Codeforces</a>
+<a href="https://swexpertacademy.com/">SWEA</a>
+ -->
+
+
+<h3 align="center">📌 이번 주 문제</h3>
+<p align="center"><strong>출제자: 윤승주주</strong></p>
 
 <table align="center" border="1" cellspacing="0" cellpadding="6">
   <thead>
