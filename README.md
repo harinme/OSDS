@@ -58,31 +58,25 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
   <tbody align="center">
     <tr>
       <td><a href="https://www.acmicpc.net/">백준</a></td>
-      <td><a href="https://www.acmicpc.net/problem/1600">1600</a></td>
-      <td>말이 되고픈 원숭이</td>
-      <td>🥇 골드 3</td>
+      <td><a href="https://www.acmicpc.net/problem/1463">1463</a></td>
+      <td>1로 만들기</td>
+      <td>🥈 실버 3</td>
     </tr>
     <tr>
       <td><a href="https://www.acmicpc.net/">백준</a></td>
-      <td><a href="https://www.acmicpc.net/problem/11066">11066</a></td>
-      <td>파일 합치기</td>
-      <td>🥇 골드 2</td>
+      <td><a href="https://www.acmicpc.net/problem/2579">2759</a></td>
+      <td>계단 오르기</td>
+      <td>🥈 실버 3</td>
     </tr>
     <tr>
       <td><a href="https://www.acmicpc.net/">백준</a></td>
-      <td><a href="https://www.acmicpc.net/problem/17822">17822</a></td>
-      <td>원판 돌리기</td>
-      <td>🥇 골드 2</td>
-    </tr>
-    <tr>
-      <td><a href="https://programmers.co.kr/">프로그래머스</a></td>
-      <td><a href="https://school.programmers.co.kr/learn/courses/30/lessons/12905">12905</a></td>
-      <td>가장 큰 정사각형 찾기</td>
-      <td> LV.2</td>
+      <td><a href="https://www.acmicpc.net/problem/12865">12865</a></td>
+      <td>평범한 배낭</td>
+      <td>🥇 골드 5</td>
     </tr>
   </tbody>
 </table>
-<p align="center"><strong>출제자: 양재원</strong></p>
+<p align="center"><strong>출제자: 윤승주주</strong></p>
 
 <table align="center" border="1" cellspacing="0" cellpadding="6">
   <thead>
