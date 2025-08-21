@@ -270,3 +270,38 @@ SSAFY 13기 서울 2반 Algorithm  Study_오손도손
     </tr>
   </tbody>
 </table>
+
+
+
+
+<h4>📌 8월 4주차 출제자 윤승주</h4>
+<table align="center" border="1" cellspacing="0" cellpadding="10" width="90%">
+  <thead>
+    <tr align="center" style="background-color:#f9f9f9; font-weight:bold;">
+      <td>출처</td>
+      <td>문제 번호</td>
+      <td>문제 이름</td>
+      <td>난이도</td>
+    </tr>
+  </thead>
+  <tbody align="center">
+    <tr>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/1463">1463</a></td>
+      <td>1로 만들기</td>
+      <td>🥈 실버 3</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/2579">2759</a></td>
+      <td>계단 오르기</td>
+      <td>🥈 실버 3</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.acmicpc.net/">백준</a></td>
+      <td><a href="https://www.acmicpc.net/problem/12865">12865</a></td>
+      <td>평범한 배낭</td>
+      <td>🥇 골드 5</td>
+    </tr>
+  </tbody>
+</table>
